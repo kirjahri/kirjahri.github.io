@@ -1,6 +1,7 @@
 body {
   background-image: url("/assets/stars.gif");
   color: white;
+  overflow: hidden;
 }
 
 .center {
